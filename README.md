@@ -12,6 +12,19 @@ The objective of this project is to verify the functionality, usability, and rel
 
 ---
 
+## Recruiter Highlights
+
+- Complete Manual Testing Project
+- End-to-End STLC Documentation
+- Software Requirement Specification (SRS)
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Bug Reports
+- Requirement Traceability Matrix (RTM)
+- Test Summary Report
+- Git & GitHub Version Control
+  
 ## Website Under Test
 
 **Application:** nopCommerce Demo Website
